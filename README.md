@@ -1,3 +1,3 @@
-# OnlineBallGameWithNodeAndJavascript
+The OpenShift `nodejs` cartridge documentation can be found at:
 
-Pure Javascript Nodejs Online ball game
+http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
