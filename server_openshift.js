@@ -1,7 +1,3 @@
-/*
-upload this file to openshift for making project online
-*/
-
 var express = require('express');
 var http = require('http');
 var mongoose = require('mongoose');

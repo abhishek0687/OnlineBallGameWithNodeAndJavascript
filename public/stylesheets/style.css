@@ -1,0 +1,42 @@
+
+#userName{
+	width: 378px;
+	height: 50px;
+	font-weight: 300;
+	background: aliceblue;
+	font-size: 34px;
+	float: left;
+	border-color: aquamarine;
+	border-width: thick;
+}
+
+
+#chatBox{
+	float: left;
+	position: relative;
+	width: 388px;
+	height: 616px;
+	margin-left: 963px;
+}
+
+
+#chat{
+	width: 388px;
+	height: 557px;
+	position: relative;
+	margin-top: 0px;
+	background-color: floralwhite;
+	opacity: 0.9;
+	overflow:auto;
+}
+
+.CC{
+	float: left;
+	position: relative;
+	margin-left: 21px;
+	font-size: 40px;
+	width: 365px;
+}
+
+
+
